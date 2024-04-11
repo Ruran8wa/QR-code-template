@@ -42,6 +42,9 @@ body {
   font-weight: 700;
   color: var(--dark-blue);
 }
+h1 {
+  font-size: 22px;
+}
 .subtext {
   width: 90%;
   margin: auto;
